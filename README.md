@@ -4,7 +4,7 @@ I created this project to test myself on a real life project that I might be doi
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: https://applescan.github.io/Designing-QR-code-component/
 
 ## My process
 

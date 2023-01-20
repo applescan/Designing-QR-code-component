@@ -22,6 +22,6 @@ I created this project to test myself on a real life project that I might be doi
 
 ## Author
 
-- Website - https://www.feliciadigitaldesign.art/
+- Website - https://felicia-portfolio.netlify.app/
 
 
